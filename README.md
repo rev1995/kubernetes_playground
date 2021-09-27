@@ -10,7 +10,7 @@ We can add more master and worker nodes.
 # Prerequisites
 
 ## VM Hardware Requirements
-* 8 GB of RAM (Preferably 16 GB) 50 GB Disk space
+* 8 GB of RAM (Preferably 16 GB) & 50 GB Disk space
 
 ## Virtual Box
 Install VirtualBox on any one of the supported platforms:
