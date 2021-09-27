@@ -19,7 +19,7 @@ Install VirtualBox on any one of the supported platforms:
 * Solaris hosts
 
 ## Vagrant
-*Usually, we deploy virtual machines manually on VirtualBox. Vagrant is an open-source software product for building and maintaining portable virtual software development environments; e.g., for VirtualBox. Vagrant provides an easier way to deploy multiple virtual machines on VirtualBox more consistenlty. 
+*Usually, we deploy virtual machines manually on VirtualBox. Vagrant is an open-source software product for building and maintaining portable virtual software development environments; e.g., for VirtualBox. Vagrant provides an easier way to deploy multiple virtual machines on VirtualBox more consistenlty.* 
 
 Install Vagrant on your platform.
 * Windows
