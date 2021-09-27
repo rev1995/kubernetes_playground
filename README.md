@@ -10,7 +10,7 @@ We can add more master and worker nodes.
 # Prerequisites
 
 ## VM Hardware Requirements
-8 GB of RAM (Preferably 16 GB) 50 GB Disk space
+* 8 GB of RAM (Preferably 16 GB) 50 GB Disk space
 
 ## Virtual Box
 Install VirtualBox on any one of the supported platforms:
@@ -37,7 +37,7 @@ Install Vagrant on your platform.
 
 ## Manual configuration 
 
-Need to update "/etc/host" file manually about the details of nodes in cluster on master node.
+* Need to update "/etc/host" file manually about the details of nodes in cluster on master node. *Working on this to autoamte is as well*
 
 
 Have Fun!!!!
