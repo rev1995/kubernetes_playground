@@ -37,8 +37,7 @@ Install Vagrant on your platform.
 
 ## Manual configuration 
 
-* Need to update "/etc/host" file manually about the details of nodes in cluster on master node. *Working on this to autoamte is as well*
-
+* Need to update "/etc/host" file manually about the details of nodes in cluster on master node. *Working on this to automate is as well*
 
 Have Fun!!!!
 
