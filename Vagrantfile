@@ -14,7 +14,7 @@ Vagrant.configure("2") do |config|
         echo "10.0.0.12  worker-2" >> /etc/hosts
   SHELL
   
-  config.vm.box = "ubunutBox"
+  config.vm.box = "ubuntu/bionic64"
   config.vm.box_check_update = false
   # Provision Master Nodes
   (1..NUM_MASTER_NODE).each do |i|
