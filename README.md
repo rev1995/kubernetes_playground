@@ -1,7 +1,7 @@
 # kubernetes_playground
 ## Kubernetes local development environment with Vagrant and Kubeadm.
 
-This documentation guides you in setting up K8s cluster with one master node and n worker nodes. 
+This documentation guides you in setting up K8s cluster with one master node (ubuntu flavour) and n worker nodes(ubuntu flavour). 
 
 >This setup will provison Practice Environemnt for CKA/CKAD and CKS Exams.
  This setup should not be viewed as production ready.
