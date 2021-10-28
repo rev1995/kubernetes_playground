@@ -1,4 +1,4 @@
-# kubernetes_playground
+# kubernetes_local_playground
 ## Kubernetes local development environment with Vagrant and Kubeadm.
 
 This documentation guides you in setting up K8s cluster with one master node(ubuntu) and n worker nodes(ubuntu). 
